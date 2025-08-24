@@ -1,0 +1,5 @@
+{
+  "name": "Slides AI",
+  "description": "An AI-powered application that generates professional presentation slides from a user-provided topic. Enter your topic and get a complete slide deck in seconds.",
+  "requestFramePermissions": []
+}
